@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Book" max_length="40" name="x_340022_vmtw_libr_book" type="collection">
+        <element label="Book Id" mandatory="true" max_length="100" name="book_id" type="string"/>
+        <element label="Book Author" mandatory="true" max_length="100" name="book_name" type="string"/>
+        <element label="Book Title" mandatory="true" max_length="100" name="book_title" type="string"/>
+        <element choice="1" label="Department" mandatory="true" max_length="100" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="ECE" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="EEE" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="OTHERS" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" mandatory="true" max_length="100" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Issued" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Damaged" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Repair" sequence="3" value="4"/>
+            </choice>
+        </element>
+    </element>
+</database>

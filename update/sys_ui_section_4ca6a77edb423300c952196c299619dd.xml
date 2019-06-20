@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="4ca6a77edb423300c952196c299619dd" sys_domain="global" table="x_340022_vmtw_libr_book_issue" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>40a6a77edb423300c952196c299619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_dept</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>c0a6a77edb423300c952196c299619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_id</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>c0a66f7edb423300c952196c29961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>44a66f7edb423300c952196c29961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_title</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>c4a66f7edb423300c952196c29961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_author</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>48a66f7edb423300c952196c29961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_no</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>c8a66f7edb423300c952196c29961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_id</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>4ca66f7edb423300c952196c29961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_id</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>cca66f7edb423300c952196c29961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>40a66f7edb423300c952196c29961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_date</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_id>c0a66f7edb423300c952196c29961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="Default view">4ca6a77edb423300c952196c299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_340022_vmtw_libr_book_issue</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:43:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ca6a77edb423300c952196c299619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_340022_vmtw_libr_book_issue</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="vmtw_library" source="x_340022_vmtw_libr">fa9b53f2db423300c952196c299619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vmtw_library">fa9b53f2db423300c952196c299619d4</sys_scope>
+            <sys_update_name>sys_ui_section_4ca6a77edb423300c952196c299619dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:43:47</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

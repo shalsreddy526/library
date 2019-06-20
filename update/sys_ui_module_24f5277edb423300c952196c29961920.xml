@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="vmtw_library">656c5bb6db423300c952196c2996191d</application>
+        <filter/>
+        <name>Book Issues</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_340022_vmtw_libr.book_issue_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 06:40:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>24f5277edb423300c952196c29961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Book Issues</sys_name>
+        <sys_package display_value="vmtw_library" source="x_340022_vmtw_libr">fa9b53f2db423300c952196c299619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vmtw_library">fa9b53f2db423300c952196c299619d4</sys_scope>
+        <sys_update_name>sys_ui_module_24f5277edb423300c952196c29961920</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 06:40:49</sys_updated_on>
+        <table>x_340022_vmtw_libr_book_issue</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Book Issue" max_length="40" name="x_340022_vmtw_libr_book_issue" type="collection">
+        <element label="Book Author" max_length="100" name="book_author" type="string"/>
+        <element label="Book Id" mandatory="true" max_length="100" name="book_id" reference="x_340022_vmtw_libr_book" type="reference"/>
+        <element label="Book Title" mandatory="true" max_length="100" name="book_title" reference="x_340022_vmtw_libr_book" type="reference"/>
+        <element label="Email Id" mandatory="true" max_length="100" name="email_id" type="string"/>
+        <element label="From Date" max_length="100" name="from_date" type="glide_date"/>
+        <element label="mobile no" max_length="100" name="mobile_no" type="integer"/>
+        <element choice="1" label="Status" max_length="100" name="status" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Issued" sequence="0" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="Return" sequence="1" value="2"/>
+                <element inactive="true" inactive_on_update="true" label="Renewal" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element label="Student Dept" max_length="100" name="student_dept" type="string"/>
+        <element label="Student Id" max_length="100" name="student_id" type="string"/>
+        <element label="Student Name" mandatory="true" max_length="100" name="student_name" type="string"/>
+        <element label="To Date" mandatory="true" max_length="100" name="to_date" type="glide_date"/>
+    </element>
+</database>

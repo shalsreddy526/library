@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Book Details" section_id="7ea823fedb423300c952196c29961987" sys_domain="global" table="x_340022_vmtw_libr_book_issue" version="3" view="Issue">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_title</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:55</sys_created_on>
+            <sys_id>becd8847dbc23300c952196c2996196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Book Details" display_value="Book Details" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="f6a8efbedb423300c952196c29961966">7ea823fedb423300c952196c29961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_author</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:55</sys_created_on>
+            <sys_id>32cd8847dbc23300c952196c2996196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Book Details" display_value="Book Details" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="f6a8efbedb423300c952196c29961966">7ea823fedb423300c952196c29961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:55</sys_created_on>
+            <sys_id>b2cd8847dbc23300c952196c2996196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Book Details" display_value="Book Details" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="f6a8efbedb423300c952196c29961966">7ea823fedb423300c952196c29961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:55</sys_created_on>
+            <sys_id>36cd8847dbc23300c952196c2996196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Book Details" display_value="Book Details" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="f6a8efbedb423300c952196c29961966">7ea823fedb423300c952196c29961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:55</sys_created_on>
+            <sys_id>b6cd8847dbc23300c952196c2996196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Book Details" display_value="Book Details" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="f6a8efbedb423300c952196c29961966">7ea823fedb423300c952196c29961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_id</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:55</sys_created_on>
+            <sys_id>3acd8847dbc23300c952196c2996196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Book Details" display_value="Book Details" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="f6a8efbedb423300c952196c29961966">7ea823fedb423300c952196c29961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:55</sys_created_on>
+            <sys_id>bacd8847dbc23300c952196c2996196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Book Details" display_value="Book Details" name="x_340022_vmtw_libr_book_issue" sys_domain="global" view="f6a8efbedb423300c952196c29961966">7ea823fedb423300c952196c29961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Book Details</caption>
+            <header>false</header>
+            <name>x_340022_vmtw_libr_book_issue</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:52:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ea823fedb423300c952196c29961987</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Book Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="vmtw_library" source="x_340022_vmtw_libr">fa9b53f2db423300c952196c299619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vmtw_library">fa9b53f2db423300c952196c299619d4</sys_scope>
+            <sys_update_name>sys_ui_section_7ea823fedb423300c952196c29961987</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Issue" name="Issue">f6a8efbedb423300c952196c29961966</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
